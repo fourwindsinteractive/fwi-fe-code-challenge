@@ -37,7 +37,7 @@ can be found in [client/src/\_variables.scss](client/src/_variables.scss).
 
 ### Cloning and developing
 
-Applicants should now fork this repository directly; rather, they should
+Applicants should not fork this repository directly; rather, they should
 initialize their own repositories and pull this repository's content in:
 
 ```
