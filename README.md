@@ -37,11 +37,6 @@ can be found in [client/src/\_variables.scss](client/src/_variables.scss).
 
 ### Cloning and developing
 
-It is recommended to **not** fork this project since it is a bit too easy for
-applicants to view pre-existing solutions by checking out this project's forks.
-Instead, you should create a new empty repo and pull in the changes from this
-repo:
-
 ```
 username @ ~/
 $ mkdir fwi-fe-code-challenge
