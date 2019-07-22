@@ -118,12 +118,9 @@ a task as completed by replacing the space with an `x`:
 + [x] Create Player
 ```
 
-When you are ready, please send an email to [Megan Jo Specht] with a link to
+When you are ready, please send an email to your FWI recruiter with a link to
 your GitHub repo and any additional instructions for running the project if you
 added any additional steps.
-
-> I recommended clicking the link above for [Megan Jo Specht] as it will also
-> create a basic email template for you
 
 ### Challenge Checklist
 
