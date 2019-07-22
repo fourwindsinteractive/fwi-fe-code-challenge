@@ -360,8 +360,6 @@ The API server will be started and available at http://localhost:3001
 
 [yarn]: https://yarnpkg.com
 [create-react-app]: https://github.com/facebook/create-react-app
-[megan jo specht]:
-  mailto:megan.specht@fourwindsinteractive.com?subject=FWI%20FE%20Code%20Challenge&body=Hey%20MJ%2C%0A%0AI%20have%20completed%20the%20code%20challenge%20and%20here%20is%20a%20link%20to%20my%20github%3A%0A%0Ahttps%3A%2F%2Fgithub.com%2FUSERNAME%2Ffwi-fe-code-challenge%0A%0AAdditional%20installation%20and%20running%20instructions%20are....%0A
 [yarn workspaces]: https://yarnpkg.com/lang/en/docs/workspaces/
 [redux-devtools-extension]:
   https://github.com/zalmoxisus/redux-devtools-extension
