@@ -5032,10 +5032,10 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-prettier@^2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.2.tgz#ef280a05ec253712e486233db5c6f23441e7342d"
-  integrity sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ==
+prettier@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.1.tgz#671e11c89c14a4cfc876ce564106c4a6726c9f5c"
+  integrity sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA==
 
 pretty-bytes@^5.6.0:
   version "5.6.0"
@@ -5446,10 +5446,10 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass@^1.39.0:
-  version "1.39.0"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.39.0.tgz#6c64695d1c437767c8f1a4e471288e831f81d035"
-  integrity sha512-F4o+RhJkNOIG0b6QudYU8c78ZADKZjKDk5cyrf8XTKWfrgbtyVVXImFstJrc+1pkQDCggyidIOytq6gS4gCCZg==
+sass@^1.41.1:
+  version "1.41.1"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.41.1.tgz#bca5bed2154192779c29f48fca9c644c60c38d98"
+  integrity sha512-vIjX7izRxw3Wsiez7SX7D+j76v7tenfO18P59nonjr/nzCkZuoHuF7I/Fo0ZRZPKr88v29ivIdE9BqGDgQD/Nw==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
 
